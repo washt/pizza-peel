@@ -1,0 +1,3082 @@
+[
+    {
+        "name": "Barcode",
+        "address": "1101 17th Street NW, Washington",
+        "poi_type": "bar",
+        "coords": [
+            -77.0380051,
+            38.9039033
+        ],
+        "area": 26616.163640099174
+    },
+    {
+        "name": "Doyle",
+        "address": "1500 New Hampshire Avenue NW, Washington, DC, 20036",
+        "poi_type": "bar",
+        "coords": [
+            -77.0431485,
+            38.910368
+        ],
+        "area": 3325.046430616017
+    },
+    {
+        "name": "1831",
+        "address": "1831 M Street Northwest, , , 20036",
+        "poi_type": "pub",
+        "coords": [
+            -77.04314,
+            38.9058197
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "SPIN",
+        "address": "1332 F Street Northwest, Washington, DC, 20045",
+        "poi_type": "bar",
+        "coords": [
+            -77.0308623,
+            38.8971265
+        ],
+        "area": 27284.714217658468
+    },
+    {
+        "name": "Walter's Sports Bar",
+        "address": "10 N St Southeast",
+        "poi_type": "bar",
+        "coords": [
+            -77.0087182,
+            38.8748565
+        ],
+        "area": 4023.749454451837
+    },
+    {
+        "name": "No Kisses",
+        "address": "3120 Georgia Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0236041,
+            38.9296271
+        ],
+        "area": 3071.582139440806
+    },
+    {
+        "name": "Red Light",
+        "address": "1401 R Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0321987,
+            38.912787
+        ],
+        "area": 7833.80663972753
+    },
+    {
+        "name": "Smitty’s",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0237511,
+            38.9341156
+        ],
+        "area": 1118.0578828917044
+    },
+    {
+        "name": "Bluejacket Brewery",
+        "address": "300 Tingey Street Southeast, Washington, DC, 20003",
+        "poi_type": "pub",
+        "coords": [
+            -77.0006981,
+            38.8750965
+        ],
+        "area": 5563.557511705708
+    },
+    {
+        "name": "Right Proper Brewing Company",
+        "address": "624 T Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0213751,
+            38.9154119
+        ],
+        "area": 5464.165572917025
+    },
+    {
+        "name": "Rathskellar",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -76.9935925,
+            38.9065702
+        ],
+        "area": 8543.136010649667
+    },
+    {
+        "name": "Trusty's",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.984378,
+            38.880172
+        ],
+        "area": 1063.2297242335706
+    },
+    {
+        "name": "Blue Bar Lounge",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0257742,
+            38.9031779
+        ],
+        "area": 6328.817390171094
+    },
+    {
+        "name": "Bar Bullfrog",
+        "address": "1341 H Street Northeast, Washington, DC, 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9868451,
+            38.9000483
+        ],
+        "area": 2105.5372237083207
+    },
+    {
+        "name": "Biergarten Haus",
+        "address": "1355 H Street Northeast, Washington, DC, 20002",
+        "poi_type": "biergarten",
+        "coords": [
+            -76.9864983,
+            38.9000449
+        ],
+        "area": 4285.0885708801
+    },
+    {
+        "name": "Hill Prince",
+        "address": "1337 H Street Northeast, Washington, DC, 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9869945,
+            38.9000449
+        ],
+        "area": 2105.5372237083207
+    },
+    {
+        "name": "Astoria",
+        "address": "1521 17th Street Northwest, Washington, DC, 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0382731,
+            38.9105253
+        ],
+        "area": 1495.3763625642907
+    },
+    {
+        "name": "a.lounge",
+        "address": "1710 H Street Northwest, Washington, DC, 20006",
+        "poi_type": "bar",
+        "coords": [
+            -77.04017,
+            38.899962
+        ],
+        "area": 17203.684891206023
+    },
+    {
+        "name": "Union Pub",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0028364,
+            38.8946397
+        ],
+        "area": 2754.067592272931
+    },
+    {
+        "name": "Left Door",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0315008,
+            38.914254
+        ],
+        "area": 7563.119206682764
+    },
+    {
+        "name": "Union Trust",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0338922,
+            38.8998555
+        ],
+        "area": 8969.955585824873
+    },
+    {
+        "name": "The Crown & Crow",
+        "address": "1317 14th Street Northwest, Washington, DC, 20005",
+        "poi_type": "bar",
+        "coords": [
+            -77.0315771,
+            38.9078763
+        ],
+        "area": ""
+    },
+    {
+        "name": "Bardo Brewpub",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0074164,
+            38.8701475
+        ],
+        "area": ""
+    },
+    {
+        "name": "The Library",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.052012,
+            38.902966
+        ],
+        "area": ""
+    },
+    {
+        "name": "Round Robin Bar",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.032238,
+            38.89646
+        ],
+        "area": 12253.612927053717
+    },
+    {
+        "name": "Presidents Sports Bar",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0231353,
+            38.9013995
+        ],
+        "area": 22335.866338822954
+    },
+    {
+        "name": "Station 9",
+        "address": "1438 U Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0328479,
+            38.9167982
+        ],
+        "area": 12482.430279042594
+    },
+    {
+        "name": "Chi-Cha Lounge",
+        "address": "1624 U Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0378895,
+            38.9167893
+        ],
+        "area": 1864.0694816628563
+    },
+    {
+        "name": "Jimmy Valentine's Lonely Hearts Club",
+        "address": "1103 Bladensburg Road Northeast, Washington, DC, 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9806006,
+            38.9039136
+        ],
+        "area": 696.1241277122379
+    },
+    {
+        "name": "The Pug Bar",
+        "address": "1234 H Street Northeast",
+        "poi_type": "pub",
+        "coords": [
+            -76.9890321,
+            38.9003573
+        ],
+        "area": 732.5296790060733
+    },
+    {
+        "name": "Chateau",
+        "address": "3439 Benning Road NE",
+        "poi_type": "bar",
+        "coords": [
+            -76.9562037,
+            38.8960226
+        ],
+        "area": ""
+    },
+    {
+        "name": "Mirrors",
+        "address": "33 New York Avenue Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -77.0076848,
+            38.9075472
+        ],
+        "area": 2108.1747879776763
+    },
+    {
+        "name": "The EFN Lounge and Motley Bar",
+        "address": "1318 9th Street NW",
+        "poi_type": "bar",
+        "coords": [
+            -77.0242003,
+            38.9079172
+        ],
+        "area": 1910.7272860801882
+    },
+    {
+        "name": "Utopia Bar & Grill",
+        "address": "1416 U Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0326513,
+            38.9168427
+        ],
+        "area": ""
+    },
+    {
+        "name": "Solly's U Street Tavern",
+        "address": "1942 11th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0272905,
+            38.9168294
+        ],
+        "area": 3261.892739718519
+    },
+    {
+        "name": "Pure Nightclub & Lounge",
+        "address": "1326 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0307384,
+            38.9167905
+        ],
+        "area": ""
+    },
+    {
+        "name": "Lounge of Three",
+        "address": "1013 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0264261,
+            38.9172062
+        ],
+        "area": ""
+    },
+    {
+        "name": "Madhatter",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.042093,
+            38.9078618
+        ],
+        "area": 12547.00025283782
+    },
+    {
+        "name": "Cantina Pub",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0451078,
+            38.9115205
+        ],
+        "area": 3939.624144321252
+    },
+    {
+        "name": "Lounge 201",
+        "address": "201 D Street Northeast, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0032801,
+            38.8946466
+        ],
+        "area": 2754.067592272931
+    },
+    {
+        "name": "Mixers Lounge",
+        "address": "104 Kennedy Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.012092,
+            38.9563927
+        ],
+        "area": 758.0236634687378
+    },
+    {
+        "name": "Murphy's Law Restaurant",
+        "address": "4624 Wisconsin Avenue Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.0808896,
+            38.9505669
+        ],
+        "area": 3451.2142046383965
+    },
+    {
+        "name": "Matisse Bar & Grill",
+        "address": "4934 Wisconsin Avenue Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.0828659,
+            38.9543007
+        ],
+        "area": ""
+    },
+    {
+        "name": "Vinoteca",
+        "address": "1940 11th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0273026,
+            38.9167297
+        ],
+        "area": 3261.892739718519
+    },
+    {
+        "name": "Rose’s Dream Bar & Lounge",
+        "address": "1370 H Street Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9859753,
+            38.900368
+        ],
+        "area": ""
+    },
+    {
+        "name": "Hawthorne",
+        "address": "1336 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.031047,
+            38.916811
+        ],
+        "area": 1072.195384539204
+    },
+    {
+        "name": "Club Timehri",
+        "address": "2439 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0420009,
+            38.9215128
+        ],
+        "area": 8126.339939190215
+    },
+    {
+        "name": "Dan's Cafe",
+        "address": "2315 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0415353,
+            38.920103
+        ],
+        "area": 4669.980621192829
+    },
+    {
+        "name": "Bossa",
+        "address": "2463 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0421955,
+            38.9220802
+        ],
+        "area": 8126.339939190215
+    },
+    {
+        "name": "The Attic",
+        "address": "1841 Columbia Road Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0439277,
+            38.9215468
+        ],
+        "area": ""
+    },
+    {
+        "name": "Bedrock Billiards",
+        "address": "1841 Columbia Road Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0438339,
+            38.9214878
+        ],
+        "area": ""
+    },
+    {
+        "name": "The Scene",
+        "address": "2221 Adams Place Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9738869,
+            38.9192533
+        ],
+        "area": 5628.520817795716
+    },
+    {
+        "name": "DC Star",
+        "address": "2135 Queens Chapel Road Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9724003,
+            38.9199037
+        ],
+        "area": 7024.9223150512935
+    },
+    {
+        "name": "The Library Saloon",
+        "address": "3514 12th Street Northeast",
+        "poi_type": "pub",
+        "coords": [
+            -76.9912027,
+            38.9329882
+        ],
+        "area": 2615.3738105967172
+    },
+    {
+        "name": "San Antonio Bar & Grill III",
+        "address": "3908 12th Street Northeast",
+        "poi_type": "pub",
+        "coords": [
+            -76.9907583,
+            38.9375716
+        ],
+        "area": 1497.5151188094433
+    },
+    {
+        "name": "18th Amendment",
+        "address": "613 Pennsylvania Avenue Southeast",
+        "poi_type": "pub",
+        "coords": [
+            -76.9979151,
+            38.8850077
+        ],
+        "area": 2593.334526343612
+    },
+    {
+        "name": "Bachelor's Mill",
+        "address": "1104 8th Street Southeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9947481,
+            38.8771782
+        ],
+        "area": 4616.302831857597
+    },
+    {
+        "name": "Hawk n Dove",
+        "address": "329 Pennsylvania Avenue Southeast",
+        "poi_type": "pub",
+        "coords": [
+            -77.0011504,
+            38.8863985
+        ],
+        "area": 2428.843175491587
+    },
+    {
+        "name": "Nanny O'Brien's Irish Pub",
+        "address": "3319 Connecticut Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0572132,
+            38.934114
+        ],
+        "area": 11152.008800807174
+    },
+    {
+        "name": "Asia Nine Bar and Lounge",
+        "address": "915 E Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0250648,
+            38.896359
+        ],
+        "area": 26218.642124976435
+    },
+    {
+        "name": "Elephant & Castle",
+        "address": "1201 Pennsylvania Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0283357,
+            38.8955933
+        ],
+        "area": 8732.169723827063
+    },
+    {
+        "name": "Bar Louie",
+        "address": "701 7th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0207789,
+            38.8989396
+        ],
+        "area": 54482.99290489657
+    },
+    {
+        "name": "Rocket Bar",
+        "address": "714 7th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0221127,
+            38.8990127
+        ],
+        "area": 12217.786026410398
+    },
+    {
+        "name": "Penn Quarter Sports Tavern",
+        "address": "639 Indiana Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0215529,
+            38.8942389
+        ],
+        "area": 8546.951303368074
+    },
+    {
+        "name": "Black Rooster Pub",
+        "address": "1919 L Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0443508,
+            38.903945
+        ],
+        "area": 17168.810723093557
+    },
+    {
+        "name": "The Bottom Line",
+        "address": "1716 I Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0401739,
+            38.9009945
+        ],
+        "area": 23084.5228926401
+    },
+    {
+        "name": "Takoma Station Tavern",
+        "address": "6914 4th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0183238,
+            38.9741918
+        ],
+        "area": ""
+    },
+    {
+        "name": "Smith Point",
+        "address": "1338 Wisconsin Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0636422,
+            38.9076176
+        ],
+        "area": 7239.063711237615
+    },
+    {
+        "name": "Garrett's Restaurant",
+        "address": "3003 M Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0594106,
+            38.9053728
+        ],
+        "area": 2942.0866694694923
+    },
+    {
+        "name": "The Gibson",
+        "address": "2009 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0316423,
+            38.9173696
+        ],
+        "area": 1539.1889911177352
+    },
+    {
+        "name": "Elephant & Castle Pub Restaurant",
+        "address": "900 19th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0437588,
+            38.9016218
+        ],
+        "area": 12861.55092423478
+    },
+    {
+        "name": "Soussi",
+        "address": "2228 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0418784,
+            38.9195312
+        ],
+        "area": 798.7607311135155
+    },
+    {
+        "name": "Marx Cafe American Bar",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0382068,
+            38.9313351
+        ],
+        "area": 2869.5798330805856
+    },
+    {
+        "name": "Exiles",
+        "address": "1610 U Street Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.037315,
+            38.916787
+        ],
+        "area": 2695.004473814491
+    },
+    {
+        "name": "Local 16",
+        "address": "1600 U Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0370718,
+            38.9167985
+        ],
+        "area": 2695.004473814491
+    },
+    {
+        "name": "DC 9 Nightclub",
+        "address": "1940 9th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0242242,
+            38.9167112
+        ],
+        "area": 916.2872016958498
+    },
+    {
+        "name": "JoJo Restaurant & Bar",
+        "address": "1518 U Street Northwest, Washington, DC, 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0353832,
+            38.9168375
+        ],
+        "area": 1885.8666648950955
+    },
+    {
+        "name": "Arcuri",
+        "address": "2400 Wisconsin Avenue Northwest, Washington, DC, 20007",
+        "poi_type": "pub",
+        "coords": [
+            -77.0723743,
+            38.9212063
+        ],
+        "area": ""
+    },
+    {
+        "name": "Sudhouse",
+        "address": "1340 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0311816,
+            38.9168579
+        ],
+        "area": 701.5218221186931
+    },
+    {
+        "name": "The Big Board",
+        "address": "421 H Street Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9997261,
+            38.9000577
+        ],
+        "area": 2429.4049823507453
+    },
+    {
+        "name": "Dodge City",
+        "address": "917 U Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0247214,
+            38.9171611
+        ],
+        "area": 867.8513381739695
+    },
+    {
+        "name": "Simple Bar",
+        "address": "5828 Georgia Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.028286,
+            38.960906
+        ],
+        "area": 2286.3288252646685
+    },
+    {
+        "name": "Player's Lounge",
+        "address": "2737 Martin Luther King Junior Avenue Southeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9963228,
+            38.8471912
+        ],
+        "area": 2811.392194716442
+    },
+    {
+        "name": "Club Elevate",
+        "address": "15 K Street Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -77.0078247,
+            38.9022273
+        ],
+        "area": 1052.174612818888
+    },
+    {
+        "name": "Granville Moore's Brickyard",
+        "address": "1238 H Street Northeast",
+        "poi_type": "pub",
+        "coords": [
+            -76.9889248,
+            38.9003594
+        ],
+        "area": 732.5296790060733
+    },
+    {
+        "name": "Billy Goat Tavern & Grill",
+        "address": "500 New Jersey Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0119366,
+            38.896674
+        ],
+        "area": 1335.5783906299685
+    },
+    {
+        "name": "Capitol City Brewing Company",
+        "address": "1100 New York Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0273573,
+            38.9000347
+        ],
+        "area": 6762.135231219599
+    },
+    {
+        "name": "Post Pub",
+        "address": "1422 M Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0340264,
+            38.9035782
+        ],
+        "area": 6607.9170983680415
+    },
+    {
+        "name": "Recess Bar",
+        "address": "727 15th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.033411,
+            38.8996053
+        ],
+        "area": 15851.115685740977
+    },
+    {
+        "name": "Art & Soul",
+        "address": "415 New Jersey Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0106516,
+            38.8952727
+        ],
+        "area": 23004.197285460446
+    },
+    {
+        "name": "Zola Wine and Kitchen",
+        "address": "505 9th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0237127,
+            38.8965187
+        ],
+        "area": 9237.503035936916
+    },
+    {
+        "name": "Eye Bar",
+        "address": "1716 I Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0402319,
+            38.9008791
+        ],
+        "area": ""
+    },
+    {
+        "name": "Quarter & Glory",
+        "address": "2017 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0316179,
+            38.9176386
+        ],
+        "area": 4188.078252703946
+    },
+    {
+        "name": "The Town Tavern",
+        "address": "2323 18th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0415583,
+            38.9203238
+        ],
+        "area": 4669.980621192829
+    },
+    {
+        "name": "Madam's Organ",
+        "address": "2461 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0421814,
+            38.9220266
+        ],
+        "area": 8126.339939190215
+    },
+    {
+        "name": "The 51st State",
+        "address": "2512 L Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0538529,
+            38.9035579
+        ],
+        "area": 3222.513049171801
+    },
+    {
+        "name": "Churchkey",
+        "address": "1337 14th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0316071,
+            38.9084824
+        ],
+        "area": ""
+    },
+    {
+        "name": "Red Lounge",
+        "address": "2013 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0316138,
+            38.9174716
+        ],
+        "area": ""
+    },
+    {
+        "name": "Vegas Lounge",
+        "address": "1415 P Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0326181,
+            38.9098587
+        ],
+        "area": 9259.382185631517
+    },
+    {
+        "name": "Nellie's Restaurant & Sports Bar",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0242217,
+            38.9168296
+        ],
+        "area": 916.2872016958498
+    },
+    {
+        "name": "Purple Patch",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0378434,
+            38.9305137
+        ],
+        "area": 1296.3559184791861
+    },
+    {
+        "name": "Thunder Burger & Bar",
+        "address": "3056 M Street Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.060687,
+            38.9050444
+        ],
+        "area": 3303.179746628784
+    },
+    {
+        "name": "Darnell's",
+        "address": "944 Florida Avenue Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.0251795,
+            38.9193138
+        ],
+        "area": 638.2282399302647
+    },
+    {
+        "name": "The Argonaut",
+        "address": "1433 H Street Northeast, Washington, DC, 20002",
+        "poi_type": "pub",
+        "coords": [
+            -76.984258,
+            38.9000502
+        ],
+        "area": 1375.905282442009
+    },
+    {
+        "name": "Green Lantern",
+        "address": "1335 Green Court Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0308673,
+            38.9044841
+        ],
+        "area": ""
+    },
+    {
+        "name": "Bar Deco",
+        "address": "717 6th Street Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.0196387,
+            38.8989598
+        ],
+        "area": 2704.6060143047875
+    },
+    {
+        "name": "Archibald's/Fast Eddies Billiards Cafe",
+        "address": "1520 K Street Northwest, Washington",
+        "poi_type": "bar",
+        "coords": [
+            -77.035585,
+            38.9021339
+        ],
+        "area": 1579.3149046856142
+    },
+    {
+        "name": "Grand Central",
+        "address": "2447 18th Street Northwest, Washington, DC, 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0420559,
+            38.9217494
+        ],
+        "area": 8126.339939190215
+    },
+    {
+        "name": "Raven Grill",
+        "address": "3125 Mount Pleasant Street Northwest, Washington, DC, 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0374038,
+            38.929396
+        ],
+        "area": 995.5806286192883
+    },
+    {
+        "name": "Serengeti",
+        "address": "6210 Georgia Avenue Northwest, Washington, , 20011",
+        "poi_type": "bar",
+        "coords": [
+            -77.0279692,
+            38.965345
+        ],
+        "area": 2908.305586920933
+    },
+    {
+        "name": "Vendetta",
+        "address": "1212 H Street Northeast",
+        "poi_type": "pub",
+        "coords": [
+            -76.9897469,
+            38.9003683
+        ],
+        "area": 1918.0576768815824
+    },
+    {
+        "name": "Twins Jazz",
+        "address": "1344 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0313007,
+            38.9167447
+        ],
+        "area": 701.5218221186931
+    },
+    {
+        "name": "Grand Slam",
+        "address": "1000 H Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0263962,
+            38.8994479
+        ],
+        "area": 13858.864029235981
+    },
+    {
+        "name": "Sam And Harry's",
+        "address": "1200 19th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0437111,
+            38.9060121
+        ],
+        "area": 20834.37827953309
+    },
+    {
+        "name": "Mackey's",
+        "address": "1823 L Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0426221,
+            38.9039282
+        ],
+        "area": 36533.67019258106
+    },
+    {
+        "name": "Billy Martin's Tavern",
+        "address": "1264 Wisconsin Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0632193,
+            38.9067417
+        ],
+        "area": 3195.0726444181237
+    },
+    {
+        "name": "Bullfeathers",
+        "address": "410 1st Street Southeast",
+        "poi_type": "pub",
+        "coords": [
+            -77.0056217,
+            38.8846415
+        ],
+        "area": 4531.49487160789
+    },
+    {
+        "name": "Rumors",
+        "address": "1900 M Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0435758,
+            38.9053627
+        ],
+        "area": 17168.810723093557
+    },
+    {
+        "name": "McClellan's Retreat",
+        "address": "2031 Florida Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0465903,
+            38.9143053
+        ],
+        "area": 918.8438114186652
+    },
+    {
+        "name": "Velvet Lounge",
+        "address": "915 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0246671,
+            38.9171596
+        ],
+        "area": 867.8513381739695
+    },
+    {
+        "name": "Science Club",
+        "address": "1136 19th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0436716,
+            38.904857
+        ],
+        "area": 17168.810723093557
+    },
+    {
+        "name": "Lucky Bar",
+        "address": "1221 Connecticut Avenue Northwest, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -77.0413645,
+            38.9065709
+        ],
+        "area": 19096.5742084818
+    },
+    {
+        "name": "Ozio Martini & Cigar Lounge",
+        "address": "1813 M Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.04237,
+            38.9058284
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "Sign Of The Whale",
+        "address": "1825 M Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0427803,
+            38.9058402
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "Cloak & Dagger",
+        "address": "1359 U Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0314825,
+            38.9171453
+        ],
+        "area": 1539.1889911177352
+    },
+    {
+        "name": "Porrón by ANXO",
+        "address": "525 8th Street Southeast, Washington, DC, 20003",
+        "poi_type": "bar",
+        "coords": [
+            -76.9952596,
+            38.8819671
+        ],
+        "area": 7286.320218002775
+    },
+    {
+        "name": "Atomic Billiards",
+        "address": "3427 Connecticut Avenue Northwest, Washington, DC, 20008",
+        "poi_type": "pub",
+        "coords": [
+            -77.0580522,
+            38.9352449
+        ],
+        "area": ""
+    },
+    {
+        "name": "The Haymaker",
+        "address": "1015 H Street Northeast, Washington, , 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9920594,
+            38.8999962
+        ],
+        "area": 2858.977044537905
+    },
+    {
+        "name": "Atlas Arcade",
+        "address": "1236 H Street Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9889758,
+            38.9003573
+        ],
+        "area": 732.5296790060733
+    },
+    {
+        "name": "Chinese Disco",
+        "address": "3251 Prospect Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0637903,
+            38.9062589
+        ],
+        "area": 2543.7667785715394
+    },
+    {
+        "name": "Saloun",
+        "address": "3239 M Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0641501,
+            38.9053053
+        ],
+        "area": 12626.37548109749
+    },
+    {
+        "name": "H Street Country Club",
+        "address": "1335 H Street Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9870656,
+            38.9000207
+        ],
+        "area": 2105.5372237083207
+    },
+    {
+        "name": "Red Derby",
+        "address": "3718 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0330896,
+            38.9377279
+        ],
+        "area": 2426.887273685297
+    },
+    {
+        "name": "Da Hong Pao",
+        "address": "1409 14th Street Northwest, Washington",
+        "poi_type": "bar",
+        "coords": [
+            -77.0317195,
+            38.9093747
+        ],
+        "area": 1853.2925191915747
+    },
+    {
+        "name": "Looking Glass Lounge",
+        "address": "3634 Georgia Avenue Northwest, Washington, DC, 20010",
+        "poi_type": "pub",
+        "coords": [
+            -77.0243606,
+            38.9350298
+        ],
+        "area": ""
+    },
+    {
+        "name": "Roofers Union",
+        "address": "2446 18th Street Northwest, Washington, DC, 20009",
+        "poi_type": "pub",
+        "coords": [
+            -77.0426414,
+            38.9218415
+        ],
+        "area": 5563.795855522588
+    },
+    {
+        "name": "Fádo Irish Pub",
+        "address": "808 7th Street Northwest, Washington, MD, 20001",
+        "poi_type": "pub",
+        "coords": [
+            -77.0221668,
+            38.9000779
+        ],
+        "area": 9305.326390085083
+    },
+    {
+        "name": "Stoney's",
+        "address": "1433 P Street Northwest, Washington, DC, 20005",
+        "poi_type": "pub",
+        "coords": [
+            -77.0332331,
+            38.9098039
+        ],
+        "area": 9259.382185631517
+    },
+    {
+        "name": "The Wonderland Ballroom",
+        "address": "1101 11th Street Northwest, Washington, , 20009",
+        "poi_type": "pub",
+        "coords": [
+            -77.0279842,
+            38.9299311
+        ],
+        "area": 1587.6351434112703
+    },
+    {
+        "name": "Little Miss Whiskey's Golden Dollar",
+        "address": "1104 H Street Northeast",
+        "poi_type": "bar",
+        "coords": [
+            -76.9912049,
+            38.9003597
+        ],
+        "area": 896.7613720638371
+    },
+    {
+        "name": "Comet Ping Pong",
+        "address": "5037 Connecticut Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0699582,
+            38.9558982
+        ],
+        "area": 5437.157992212209
+    },
+    {
+        "name": "The Bier Baron Tavern",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0485698,
+            38.9102987
+        ],
+        "area": 3271.127938341976
+    },
+    {
+        "name": "St. Arnolds on Jefferson",
+        "address": "1827 Jefferson Place Northwest, Washington, DC, 20036",
+        "poi_type": "pub",
+        "coords": [
+            -77.042783,
+            38.9065895
+        ],
+        "area": 854.114374087742
+    },
+    {
+        "name": "Mission Mexican Restaurant Bar",
+        "address": "1606 20th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0450783,
+            38.9112951
+        ],
+        "area": 3939.624144321252
+    },
+    {
+        "name": "The Fireplace",
+        "address": "2161 P Street Northwest, Washington",
+        "poi_type": "bar",
+        "coords": [
+            -77.0485969,
+            38.9098302
+        ],
+        "area": 3271.127938341976
+    },
+    {
+        "name": "JR's Bar and Grill",
+        "address": "1519 17th Street Northwest, Washington, , 20036",
+        "poi_type": "bar",
+        "coords": [
+            -77.0381978,
+            38.9104732
+        ],
+        "area": 1495.3763625642907
+    },
+    {
+        "name": "Duke's Grocery",
+        "address": "1513 17th Street Northwest, Washington, DC, 20036",
+        "poi_type": "pub",
+        "coords": [
+            -77.038299,
+            38.910153
+        ],
+        "area": 1132.6281623822015
+    },
+    {
+        "name": "The Big Hunt",
+        "address": "1345 Connecticut Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0424176,
+            38.9084106
+        ],
+        "area": 12547.00025283782
+    },
+    {
+        "name": "Number Nine",
+        "address": "1435 P Street Northwest, Washington, DC, 20005",
+        "poi_type": "bar",
+        "coords": [
+            -77.033364,
+            38.9098061
+        ],
+        "area": 9259.382185631517
+    },
+    {
+        "name": "Denson",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0202003,
+            38.897132
+        ],
+        "area": 24531.678845574643
+    },
+    {
+        "name": "Moreland's Tavern",
+        "address": "5500 Colorado Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0331871,
+            38.9566594
+        ],
+        "area": 2335.808813425437
+    },
+    {
+        "name": "Brookland Pint",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -76.9951953,
+            38.9326024
+        ],
+        "area": 3268.9936230330513
+    },
+    {
+        "name": "Lucky Strike",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0207942,
+            38.8991891
+        ],
+        "area": 54482.99290489657
+    },
+    {
+        "name": "The Tombs",
+        "address": "1226 36th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0704195,
+            38.9060191
+        ],
+        "area": 1702.8096087960598
+    },
+    {
+        "name": "Redline",
+        "address": "707 G Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0223713,
+            38.8986379
+        ],
+        "area": 12217.786026410398
+    },
+    {
+        "name": "Free State",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0192399,
+            38.8984588
+        ],
+        "area": 4793.9844061258
+    },
+    {
+        "name": "Wild Days",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0284,
+            38.9028446
+        ],
+        "area": 6691.423781536795
+    },
+    {
+        "name": "TallBoy",
+        "address": "1239 9th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0237048,
+            38.9065768
+        ],
+        "area": 83668.01147723495
+    },
+    {
+        "name": "Morris",
+        "address": "1020 7th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0221411,
+            38.9034744
+        ],
+        "area": 83668.01147723495
+    },
+    {
+        "name": "1015 Bar & Lounge",
+        "address": "1015 7th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0217148,
+            38.9034248
+        ],
+        "area": 14462.823329120714
+    },
+    {
+        "name": "Allegory",
+        "address": "1201 K Street Northwest, Washington, DC, 20005",
+        "poi_type": "bar",
+        "coords": [
+            -77.0285311,
+            38.9027885
+        ],
+        "area": 6691.423781536795
+    },
+    {
+        "name": "Stars Bistro & Bar",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0471164,
+            38.9094616
+        ],
+        "area": 6006.651074623808
+    },
+    {
+        "name": "Brothers and Sisters",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0416213,
+            38.9227894
+        ],
+        "area": 3940.6782010812676
+    },
+    {
+        "name": "Lobby Bar",
+        "address": "2660 Woodley Road Northwest, Washington, DC, 20008",
+        "poi_type": "bar",
+        "coords": [
+            -77.0547939,
+            38.9243145
+        ],
+        "area": 26700.537520821927
+    },
+    {
+        "name": "The Queen Vic",
+        "address": "1206 H Street Northeast, Washington, DC",
+        "poi_type": "pub",
+        "coords": [
+            -76.9898685,
+            38.9004157
+        ],
+        "area": 1918.0576768815824
+    },
+    {
+        "name": "Tropicalia Lounge",
+        "address": "2001 14th Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0316421,
+            38.917138
+        ],
+        "area": 1539.1889911177352
+    },
+    {
+        "name": "Capitol Cider House",
+        "address": "3930 Georgia Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0251027,
+            38.9394479
+        ],
+        "area": 854.9326168171586
+    },
+    {
+        "name": "Ivy & Coney",
+        "address": "1537 7th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0217096,
+            38.9106583
+        ],
+        "area": 1688.8176547619453
+    },
+    {
+        "name": "Bravo",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.022867,
+            38.927789
+        ],
+        "area": 561.0382657653263
+    },
+    {
+        "name": "Public Tenley",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.081597,
+            38.954052
+        ],
+        "area": ""
+    },
+    {
+        "name": "Lou's City Bar",
+        "address": "1400 Irving Street Northwest, , , 20010",
+        "poi_type": "bar",
+        "coords": [
+            -77.033826,
+            38.9284992
+        ],
+        "area": 8982.131075683898
+    },
+    {
+        "name": "Base Line Brews",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0064754,
+            38.8725594
+        ],
+        "area": ""
+    },
+    {
+        "name": "Grand Cata",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0222,
+            38.910724
+        ],
+        "area": 5179.047157723264
+    },
+    {
+        "name": "2010 Lounge",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0242088,
+            38.9173863
+        ],
+        "area": ""
+    },
+    {
+        "name": "Red Porch",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0073095,
+            38.8738395
+        ],
+        "area": 1764.954717316985
+    },
+    {
+        "name": "Dos Mamis",
+        "address": "819 Upshur Street Northwest, Washington, DC, 20011",
+        "poi_type": "bar",
+        "coords": [
+            -77.0241586,
+            38.9420896
+        ],
+        "area": 2483.668749275527
+    },
+    {
+        "name": "Imperial",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0414627,
+            38.9171642
+        ],
+        "area": 1150.7137987804463
+    },
+    {
+        "name": "Grand Duchess",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.041756,
+            38.9205851
+        ],
+        "area": 4669.980621192829
+    },
+    {
+        "name": "Pitchers Cafe",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0415952,
+            38.9201441
+        ],
+        "area": 4669.980621192829
+    },
+    {
+        "name": "Bar Charley",
+        "address": "1825 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0414418,
+            38.9150699
+        ],
+        "area": 596.4855277604177
+    },
+    {
+        "name": "The Pitch",
+        "address": "4015 Georgia Avenue Northwest, Washington, DC, 20011",
+        "poi_type": "bar",
+        "coords": [
+            -77.024788,
+            38.940253
+        ],
+        "area": 407.4478804438021
+    },
+    {
+        "name": "Wet Dog Tavern",
+        "address": "2100 Vermont Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.024869,
+            38.9182594
+        ],
+        "area": 778.0521392418378
+    },
+    {
+        "name": "Columbia Room",
+        "address": "122 Blagden Alley, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0244364,
+            38.9063714
+        ],
+        "area": ""
+    },
+    {
+        "name": "Electric Cool-Aid",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0195867179618,
+            38.912906937029
+        ],
+        "area": ""
+    },
+    {
+        "name": "Midlands Beer Garden",
+        "address": "3333 Georgia Avenue Northwest, , , 20010",
+        "poi_type": "bar",
+        "coords": [
+            -77.0232195,
+            38.9319198
+        ],
+        "area": 2796.92665022498
+    },
+    {
+        "name": "The Riggsby",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0396171,
+            38.9133369
+        ],
+        "area": 2034.1575450168132
+    },
+    {
+        "name": "Suburbia",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.9971669,
+            38.9082261
+        ],
+        "area": ""
+    },
+    {
+        "name": "Bin 1301",
+        "address": "1301 U Street Northwest, Washington, DC, 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0306168,
+            38.9171459
+        ],
+        "area": 5289.407455907857
+    },
+    {
+        "name": "Kiss",
+        "address": "637 T Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0213818,
+            38.9157192
+        ],
+        "area": 804.8042115539319
+    },
+    {
+        "name": "Tyber Creek",
+        "address": "84 T Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0119424,
+            38.9154232
+        ],
+        "area": 707.4805097836975
+    },
+    {
+        "name": "Kelly's Irish Times",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0097882,
+            38.89717
+        ],
+        "area": 21045.109063999644
+    },
+    {
+        "name": "Franklin Hall",
+        "address": "1346 Florida Avenue Northwest, Washington, DC, 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0312484,
+            38.9200515
+        ],
+        "area": 5958.532495061959
+    },
+    {
+        "name": "Pinea",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0333211,
+            38.8967307
+        ],
+        "area": 12253.612927053717
+    },
+    {
+        "name": "Harry's Pub",
+        "address": "2660 Woodley Road Northwest, Washington, DC, 20008",
+        "poi_type": "pub",
+        "coords": [
+            -77.0544292,
+            38.9243206
+        ],
+        "area": 26700.537520821927
+    },
+    {
+        "name": "Betsy",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.9944661,
+            38.882216
+        ],
+        "area": 3900.791626272376
+    },
+    {
+        "name": "Showtime Lounge",
+        "address": "113 Rhode Island Avenue Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0127143,
+            38.9157733
+        ],
+        "area": 890.1393840826662
+    },
+    {
+        "name": "Boveda",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.050767,
+            38.905123
+        ],
+        "area": 7503.524051601762
+    },
+    {
+        "name": "Maddy's Tap Room",
+        "address": "1100 13th Street Northwest, Washington",
+        "poi_type": "pub",
+        "coords": [
+            -77.029893,
+            38.903934
+        ],
+        "area": 8036.235082068387
+    },
+    {
+        "name": "Tap99",
+        "address": "1250 Half Street Southeast, Washington, DC, 20003",
+        "poi_type": "bar",
+        "coords": [
+            -77.0067895,
+            38.8748026
+        ],
+        "area": 25214.619865445078
+    },
+    {
+        "name": "Pop’s Sea Bar",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0436159,
+            38.9219442
+        ],
+        "area": 4432.262399617828
+    },
+    {
+        "name": "Big Chief",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -76.9849329,
+            38.9148156
+        ],
+        "area": 3992.609834087106
+    },
+    {
+        "name": "The Dew Drop Inn",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.9947194,
+            38.9259285
+        ],
+        "area": 277.84783856375
+    },
+    {
+        "name": "Sauf Haus Bier Hall & Garten",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0419781,
+            38.9063817
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "The Gryphon",
+        "address": "1337 Connecticut Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0423275,
+            38.9082613
+        ],
+        "area": 12547.00025283782
+    },
+    {
+        "name": "Reliable Tavern",
+        "address": "3655 Georgia Avenue Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0240637,
+            38.936067
+        ],
+        "area": 1239.533747711176
+    },
+    {
+        "name": "Nidos",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.9737266,
+            38.9305449
+        ],
+        "area": 3233.4449820678765
+    },
+    {
+        "name": "Pearl Street Warehouse",
+        "address": "33 Pearl Street Southwest, Washington, DC, 20024",
+        "poi_type": "bar",
+        "coords": [
+            -77.024004,
+            38.8788327
+        ],
+        "area": ""
+    },
+    {
+        "name": "Bravo Bravo",
+        "address": "1001 Connecticut Avenue Northwest, Washington, DC, 20036",
+        "poi_type": "bar",
+        "coords": [
+            -77.0392331,
+            38.9029189
+        ],
+        "area": 10051.345871848793
+    },
+    {
+        "name": "Cafe Saint Ex",
+        "address": "1847 14th Street Northwest, , , 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0317015,
+            38.9154205
+        ],
+        "area": 7563.119206682764
+    },
+    {
+        "name": "Froggy Bottom Pub",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0457902,
+            38.9027776
+        ],
+        "area": 17269.435474492802
+    },
+    {
+        "name": "Creation Inn",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0267323,
+            38.9791706
+        ],
+        "area": 1274.5033366524788
+    },
+    {
+        "name": "Cheerz",
+        "address": "7303 Georgia Avenue Northwest, Washington, , 20012",
+        "poi_type": "bar",
+        "coords": [
+            -77.0261822,
+            38.9784401
+        ],
+        "area": 3231.4133193118396
+    },
+    {
+        "name": "Peace Lounge",
+        "address": "2628a Georgia Avenue Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0228621,
+            38.9250019
+        ],
+        "area": 967.4990507344231
+    },
+    {
+        "name": "Hook Hall",
+        "address": "3410 Georgia Avenue Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0239903,
+            38.9322889
+        ],
+        "area": 3462.3027858893483
+    },
+    {
+        "name": "Tiki TNT",
+        "address": "1130 Maine Avenue Southwest, Washington, DC, 20024",
+        "poi_type": "bar",
+        "coords": [
+            -77.0272646,
+            38.881072
+        ],
+        "area": 526.9929265859726
+    },
+    {
+        "name": "A&D Bar",
+        "address": "1314 9th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0241401,
+            38.9077599
+        ],
+        "area": 1910.7272860801882
+    },
+    {
+        "name": "Players Club",
+        "address": "1400 14th Street Northwest, Washington, DC, 20005",
+        "poi_type": "bar",
+        "coords": [
+            -77.0321674,
+            38.9090523
+        ],
+        "area": 7943.21244363214
+    },
+    {
+        "name": "Barcelona Wine Bar & Restaurant",
+        "address": "1622 14th Street Northwest, Washington, , 20009",
+        "poi_type": "bar",
+        "coords": [
+            -77.0322592,
+            38.9120904
+        ],
+        "area": 3173.8168836820646
+    },
+    {
+        "name": "Mr. Braxton Bar and Kitchen",
+        "address": "3632 Georgia Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.024351,
+            38.9349684
+        ],
+        "area": ""
+    },
+    {
+        "name": "Boundary Stone",
+        "address": "116 Rhode Island Avenue Northwest, Washington, DC, 20001",
+        "poi_type": "pub",
+        "coords": [
+            -77.0127371,
+            38.9152728
+        ],
+        "area": 927.9416617138706
+    },
+    {
+        "name": "Iron Horse Tap Room",
+        "address": "507 7th St Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0216801,
+            38.896434
+        ],
+        "area": 24531.678845574643
+    },
+    {
+        "name": "H Bar",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0240825,
+            38.87865
+        ],
+        "area": 6207.828433527352
+    },
+    {
+        "name": "Apple Lounge Hookah Bar",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0276426,
+            38.916819
+        ],
+        "area": 3001.3072240963893
+    },
+    {
+        "name": "Yard House",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.022131,
+            38.9007127
+        ],
+        "area": 9305.326390085083
+    },
+    {
+        "name": "Jackpot",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0221972,
+            38.8991219
+        ],
+        "area": 12217.786026410398
+    },
+    {
+        "name": "Shenanigan's Irish Pub",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0426588,
+            38.9219406
+        ],
+        "area": 5563.795855522588
+    },
+    {
+        "name": "Avenue Cafe Lounge",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0349053,
+            38.9080178
+        ],
+        "area": 5358.632466062218
+    },
+    {
+        "name": "The Dubliner",
+        "address": "4 F Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0095184,
+            38.8971839
+        ],
+        "area": 1579.5050387492638
+    },
+    {
+        "name": "Truxton Inn",
+        "address": "251 Florida Avenue Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0155774,
+            38.9138512
+        ],
+        "area": 3006.153882824341
+    },
+    {
+        "name": "Dio Wine Bar",
+        "address": "904 H St NE, Washington, DC, 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9934442,
+            38.9003923
+        ],
+        "area": 526.5157936771703
+    },
+    {
+        "name": "Kirwan’s",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0242108,
+            38.8786378
+        ],
+        "area": 6207.828433527352
+    },
+    {
+        "name": "Watering Hole",
+        "address": "850 Wharf Street Southwest, Washington, DC, 20024",
+        "poi_type": "bar",
+        "coords": [
+            -77.0254092,
+            38.8793378
+        ],
+        "area": ""
+    },
+    {
+        "name": "Zeba Bar",
+        "address": "3423 14th Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0324622,
+            38.9322311
+        ],
+        "area": 1068.1515501968076
+    },
+    {
+        "name": "Cities",
+        "address": "919 19th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0431824,
+            38.9020075
+        ],
+        "area": 19007.07116342876
+    },
+    {
+        "name": "The Thirsty Crow",
+        "address": "3400 11th Street Northwest, Washington, DC, 20010",
+        "poi_type": "bar",
+        "coords": [
+            -77.0285015,
+            38.9318566
+        ],
+        "area": ""
+    },
+    {
+        "name": "Cantina Bambina",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0263921,
+            38.8799059
+        ],
+        "area": 212.48903133150372
+    },
+    {
+        "name": "The Board Room DC",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.0454577,
+            38.9136193
+        ],
+        "area": 4887.923065644225
+    },
+    {
+        "name": "Whiskey Charlie",
+        "address": "975 7th Street Southwest, Washington, DC, 20024",
+        "poi_type": "bar",
+        "coords": [
+            -77.0235771,
+            38.8784614
+        ],
+        "area": 6207.828433527352
+    },
+    {
+        "name": "Service Bar DC",
+        "address": "926-928 U Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0250287,
+            38.9168326
+        ],
+        "area": 1356.5913210320693
+    },
+    {
+        "name": "Rocket Liquors",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0260478340815,
+            38.9561041089481
+        ],
+        "area": 744.6264241902142
+    },
+    {
+        "name": "DC Eagle",
+        "address": "3701 Benning Road Northeast, Washington, DC, 20019",
+        "poi_type": "bar",
+        "coords": [
+            -76.9511201423826,
+            38.8948429552018
+        ],
+        "area": 1014.9669669792094
+    },
+    {
+        "name": "G-Spot Bar&lounge",
+        "address": "5413 Georgia Avenue Northwest, Washington, DC, 20011",
+        "poi_type": "bar",
+        "coords": [
+            -77.0276733917567,
+            38.9556227495207
+        ],
+        "area": 1479.8943467336928
+    },
+    {
+        "name": "D.C. Reynolds",
+        "address": "3628 Georgia Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0243275,
+            38.934879
+        ],
+        "area": ""
+    },
+    {
+        "name": "American Ice Company",
+        "address": "917 V Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0252656,
+            38.9183318
+        ],
+        "area": 352.28575227504285
+    },
+    {
+        "name": "The Marquee",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0540902,
+            38.9229305
+        ],
+        "area": 21595.82475354241
+    },
+    {
+        "name": "Garden District",
+        "address": null,
+        "poi_type": "biergarten",
+        "coords": [
+            -77.0316285717499,
+            38.9142270300608
+        ],
+        "area": ""
+    },
+    {
+        "name": "Chuck & Billy's",
+        "address": "2718 Georgia Avenue Northwest, , , 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0231605663743,
+            38.9256357749791
+        ],
+        "area": ""
+    },
+    {
+        "name": "Fox & Hounds Lounge",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0382685,
+            38.9108644
+        ],
+        "area": ""
+    },
+    {
+        "name": "Wunder Garten",
+        "address": "1101 First Street Northeast, Washington",
+        "poi_type": "biergarten",
+        "coords": [
+            -77.0054501,
+            38.9040239
+        ],
+        "area": 431.0148238547019
+    },
+    {
+        "name": "The Passenger",
+        "address": "1539 7th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0217148,
+            38.9107097
+        ],
+        "area": 1688.8176547619453
+    },
+    {
+        "name": "Irish Channel",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.019106,
+            38.8995212
+        ],
+        "area": 4793.9844061258
+    },
+    {
+        "name": "Mackey's",
+        "address": "1306 G Street Northwest, Washington, DC, 20005",
+        "poi_type": "bar",
+        "coords": [
+            -77.0302259,
+            38.8981015
+        ],
+        "area": 19089.697506304707
+    },
+    {
+        "name": "Black Whiskey",
+        "address": "1410 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0322917,
+            38.9092784
+        ],
+        "area": 7943.21244363214
+    },
+    {
+        "name": "Penn Social",
+        "address": "801 E Street Northwest, Washington, DC, 20004",
+        "poi_type": "bar",
+        "coords": [
+            -77.0231869,
+            38.8963031
+        ],
+        "area": 9237.503035936916
+    },
+    {
+        "name": "Satellite Room",
+        "address": "2047 9th Street Northwest, , , 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0237774,
+            38.9181294
+        ],
+        "area": 1584.2795483432728
+    },
+    {
+        "name": "Penn Commons",
+        "address": "700 6th Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0201233,
+            38.8987596
+        ],
+        "area": 54482.99290489657
+    },
+    {
+        "name": "Lyman's Tavern",
+        "address": "3720 14th Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.033012,
+            38.93779
+        ],
+        "area": 2426.887273685297
+    },
+    {
+        "name": "Wisdom",
+        "address": "1432 Pennsylvania Avenue Southeast, Washington, , 20003",
+        "poi_type": "bar",
+        "coords": [
+            -76.9841302,
+            38.8800854
+        ],
+        "area": ""
+    },
+    {
+        "name": "Diet Starts Monday",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0316361,
+            38.9172638
+        ],
+        "area": 1539.1889911177352
+    },
+    {
+        "name": "2 Birds 1 Stone",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0323441,
+            38.9142512
+        ],
+        "area": 3032.556721540094
+    },
+    {
+        "name": "Muzette",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0415129,
+            38.9198032
+        ],
+        "area": 662.6013907120057
+    },
+    {
+        "name": "The Brig",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.9952839,
+            38.8778261
+        ],
+        "area": 447.64894579810294
+    },
+    {
+        "name": "Off The Record",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.038828,
+            38.9028416
+        ],
+        "area": 10051.345871848793
+    },
+    {
+        "name": "Le Bar",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.03392,
+            38.9003972
+        ],
+        "area": 8691.827018127276
+    },
+    {
+        "name": "Republic Restoratives Distillery",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -76.9852841,
+            38.9153108
+        ],
+        "area": 5095.924856856623
+    },
+    {
+        "name": "Murray Hill Club",
+        "address": "2052 West Virginia Avenue Northeast, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -76.9815312,
+            38.9148077
+        ],
+        "area": 7154.708527611798
+    },
+    {
+        "name": "Atlas Brew Works",
+        "address": "2052 West Virginia Avenue Northeast, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -76.9813086,
+            38.9148494
+        ],
+        "area": 7154.708527611798
+    },
+    {
+        "name": "Sing Sing Karaoke Bar",
+        "address": "1222 H St NE, Washington, DC, 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9893681,
+            38.9003606
+        ],
+        "area": 1918.0576768815824
+    },
+    {
+        "name": "The Rye Bar",
+        "address": "1050 31st Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0613312,
+            38.9040146
+        ],
+        "area": 1333.8082331613414
+    },
+    {
+        "name": "18th Street Lounge",
+        "address": "1212 18th St NW",
+        "poi_type": "bar",
+        "coords": [
+            -77.0421331,
+            38.9062223
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "Rosebar",
+        "address": "1215 Connecticut Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0411812,
+            38.9064031
+        ],
+        "area": 19096.5742084818
+    },
+    {
+        "name": "Gazuza",
+        "address": "1629 Connecticut Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0443476,
+            38.9119108
+        ],
+        "area": 955.315058352675
+    },
+    {
+        "name": "Kingfisher DC",
+        "address": "1416 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0321972,
+            38.9094395
+        ],
+        "area": 7943.21244363214
+    },
+    {
+        "name": "Trade",
+        "address": "1410 14th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0321905,
+            38.9092778
+        ],
+        "area": 7943.21244363214
+    },
+    {
+        "name": "ANXO Cidery & Tasting Room",
+        "address": "711 Kennedy Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0228637,
+            38.9565206
+        ],
+        "area": 793.6258480682897
+    },
+    {
+        "name": "Homestead",
+        "address": "3911 Georgia Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0245404,
+            38.9391335
+        ],
+        "area": ""
+    },
+    {
+        "name": "PostScript",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0343021,
+            38.9053837
+        ],
+        "area": 41054.54792583859
+    },
+    {
+        "name": "Eat-Bar",
+        "address": "415 8th Street Southeast, Washington, DC, 20003",
+        "poi_type": "bar",
+        "coords": [
+            -76.9951878,
+            38.8831986
+        ],
+        "area": 5368.811133988217
+    },
+    {
+        "name": "The Codmother",
+        "address": "1334 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0309828,
+            38.9167747
+        ],
+        "area": 1072.195384539204
+    },
+    {
+        "name": "The Dirty Goose",
+        "address": "913 U Street Northwest, Washington, DC, 20001",
+        "poi_type": "bar",
+        "coords": [
+            -77.0246152,
+            38.9172384
+        ],
+        "area": 867.8513381739695
+    },
+    {
+        "name": "Aslin Beer Garden",
+        "address": null,
+        "poi_type": "biergarten",
+        "coords": [
+            -77.006132,
+            38.8748505
+        ],
+        "area": 25214.619865445078
+    },
+    {
+        "name": "Desperados",
+        "address": "1342 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0312337,
+            38.9168196
+        ],
+        "area": 701.5218221186931
+    },
+    {
+        "name": "Lost and Found",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0241689,
+            38.9068745
+        ],
+        "area": ""
+    },
+    {
+        "name": "High Velocity",
+        "address": null,
+        "poi_type": "bar",
+        "coords": [
+            -77.0242313,
+            38.9040184
+        ],
+        "area": 17002.643793307227
+    },
+    {
+        "name": "Bardo Brewery and Pub",
+        "address": "1216 Bladensburg Road Northeast, Washington, DC, 20002",
+        "poi_type": "pub",
+        "coords": [
+            -76.9801066013945,
+            38.9057283004097
+        ],
+        "area": ""
+    },
+    {
+        "name": "Heist",
+        "address": "1802 Jefferson Place Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.042202,
+            38.9063642
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "Bar à Vin",
+        "address": "1035 31st Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0608905,
+            38.9035707
+        ],
+        "area": 2603.8225964690264
+    },
+    {
+        "name": "Larry's Lounge",
+        "address": "1840 18th Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0418536,
+            38.915391
+        ],
+        "area": 1484.3045419235302
+    },
+    {
+        "name": "The Blaguard",
+        "address": "2003 18th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0414228,
+            38.9172914
+        ],
+        "area": 1150.7137987804463
+    },
+    {
+        "name": "Electric Cool-Aid",
+        "address": "512 Rhode Island Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0195609,
+            38.912936
+        ],
+        "area": ""
+    },
+    {
+        "name": "Trio",
+        "address": "1537 17th Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0382643,
+            38.9109803
+        ],
+        "area": ""
+    },
+    {
+        "name": "Third Eye",
+        "address": "1723 Connecticut Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0452916,
+            38.9133141
+        ],
+        "area": 4887.923065644225
+    },
+    {
+        "name": "Gypsy Sally's",
+        "address": "3401 K Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0681132,
+            38.9041378
+        ],
+        "area": 2480.9308854694305
+    },
+    {
+        "name": "Georgetown Piano Bar",
+        "address": "3287 M Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0655971,
+            38.9053051
+        ],
+        "area": 2318.4602566612944
+    },
+    {
+        "name": "Modern",
+        "address": "3287 M Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0656419,
+            38.9052984
+        ],
+        "area": 2318.4602566612944
+    },
+    {
+        "name": "All Souls",
+        "address": "725 T Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.022716,
+            38.9157386
+        ],
+        "area": 517.9336043262671
+    },
+    {
+        "name": "ENO Wine Bar",
+        "address": "2810 Pennsylvania Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0575413,
+            38.9048729
+        ],
+        "area": 5204.9330587880195
+    },
+    {
+        "name": "The Sovereign",
+        "address": "1206 Wisconsin Avenue Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0629709,
+            38.9053845
+        ],
+        "area": 12626.37548109749
+    },
+    {
+        "name": "Parlay Sports Bar & Lounge",
+        "address": "1827 M Street Northwest, Washington, DC",
+        "poi_type": "bar",
+        "coords": [
+            -77.0428473,
+            38.9058368
+        ],
+        "area": 11931.063807560617
+    },
+    {
+        "name": "Saloon",
+        "address": "1205 U Street Northwest",
+        "poi_type": "bar",
+        "coords": [
+            -77.0284843,
+            38.9171639
+        ],
+        "area": 784.9591321976313
+    },
+    {
+        "name": "Champions",
+        "address": "1206 Wisconsin Avenue Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0631764,
+            38.9055067
+        ],
+        "area": 12626.37548109749
+    },
+    {
+        "name": "Mr.Smith's of Georgetown",
+        "address": "3205 K Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.063113,
+            38.902767
+        ],
+        "area": 3496.5363234896517
+    },
+    {
+        "name": "Lola's",
+        "address": "711 8th Street Southeast, Washington, DC, 20003",
+        "poi_type": "pub",
+        "coords": [
+            -76.995270740126,
+            38.8808247381516
+        ],
+        "area": 4423.273282879805
+    },
+    {
+        "name": "Finn McCool’s",
+        "address": "713 8th Street Southeast, Washington, DC, 20003",
+        "poi_type": "pub",
+        "coords": [
+            -76.9953290766155,
+            38.8807674415516
+        ],
+        "area": 4423.273282879805
+    },
+    {
+        "name": "Jackie Lee Lounge",
+        "address": "116 Kennedy Street Northwest, , , 20011",
+        "poi_type": "bar",
+        "coords": [
+            -77.0124898473167,
+            38.9563809198633
+        ],
+        "area": 877.3342371926865
+    },
+    {
+        "name": "Bar Elena",
+        "address": "414 H Street Northeast, Washington, , 20002",
+        "poi_type": "bar",
+        "coords": [
+            -76.9998795782638,
+            38.9004579859015
+        ],
+        "area": ""
+    },
+    {
+        "name": "Tonic",
+        "address": "2036 G Street Northwest",
+        "poi_type": "pub",
+        "coords": [
+            -77.0464755489363,
+            38.8981223059725
+        ],
+        "area": 540.6293389412434
+    },
+    {
+        "name": "The Brixton",
+        "address": null,
+        "poi_type": "pub",
+        "coords": [
+            -77.024168191015,
+            38.9171755316926
+        ],
+        "area": 733.8976127640278
+    }
+]
