@@ -6,7 +6,7 @@
 `./venv/bin/activate`
 `pip3 install -r requirements.txt`
 
-- Run server
+### Run server
 `FLASK_APP=server flask run`
 
 ## API
@@ -24,6 +24,8 @@ curl --location --request POST 'localhost:5001/nearest_bars/' \
 
 ### Response
 results will be returned as a JSON array with each entry containing an array of `name`, `coordinates`, and `site area` in meters squared
+
+```
 {[
     [
         "Barcode",
@@ -66,6 +68,7 @@ results will be returned as a JSON array with each entry containing an array of 
         23084.5228926401
     ]
 ]}
+```
 
 ## Data Joining Process 
 My joining algo can be seen in `preprocess.py`, which was used to create `data/joined_data.json` for the main application. I had some trouble initially loading in the `osm-bars` data because I've never worked with `.shp` files before..this set me back ~1 hour.
